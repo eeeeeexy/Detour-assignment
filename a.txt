@@ -1,0 +1,9 @@
+============ approximate + pruning group ============
+schedule time: 12.212517738342285
+approximate group time: 41.281426191329956 total: 1442.0 total cost: 702.5693345552891
+============ approximate + pruning group + pruning traj ============
+schedule time: 10.648808717727661
+approximate group traj time: 37.026000022888184 1340.0 682.0286914912142
+============ approximate + pruning group + pruning traj + parallel ============
+schedule time: 1.9111318588256836
+approximate group traj time: 24.09512495994568

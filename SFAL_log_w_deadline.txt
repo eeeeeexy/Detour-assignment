@@ -1,0 +1,104 @@
+task dict: 2500
+worker dict: 780
+group size: 5 group_range: 0.4
+节点数为2500, 边数为3123437。
+
+----- greedy grouping -----
+group time: 9.39336633682251 0.372882604598999 876
+====== grouping result =====
+============ approximate ============
+schedule time: 239.56437015533447
+approximate group time: 266.4816904067993 total: 1589.0 total cost: 702.39882868903
+============ approximate + pruning group ============
+schedule time: 12.63467025756836
+approximate group time: 38.77679491043091 total: 1589.0 total cost: 743.6795102140394
+============ approximate + pruning group + pruning traj ============
+schedule time: 10.862352848052979
+approximate group traj time: 33.37847924232483 1400.0 666.362175983666
+============ approximate + pruning group + pruning traj + parallel ============
+schedule time: 1.8933417797088623
+approximate group traj time: 25.255666971206665
+============= Exact algorithm ==================
+schedule time: 2434.9970197677612
+approximate group traj time: 2460.7272543907166 1591.0 765.6791944508693
+task dict: 2500
+worker dict: 780
+group size: 5 group_range: 0.4
+节点数为2500, 边数为3123437。
+
+----- greedy grouping -----
+group time: 8.699794292449951 0.39389634132385254 876
+====== grouping result =====
+============ approximate ============
+task dict: 2500
+worker dict: 780
+group size: 5 group_range: 0.4
+节点数为2500, 边数为3123437。
+
+----- greedy grouping -----
+group time: 8.874003410339355 0.369037389755249 876
+====== grouping result =====
+============ approximate ============
+schedule time: 227.08646988868713
+approximate group time: 250.97307991981506 total: 1589.0 total cost: 702.39882868903
+============ approximate + pruning group ============
+schedule time: 12.005580186843872
+approximate group time: 35.85223746299744 total: 1589.0 total cost: 743.6795102140394
+============ approximate + pruning group + pruning traj ============
+schedule time: 10.315826892852783
+approximate group traj time: 30.74862813949585 1400.0 666.362175983666
+============ approximate + pruning group + pruning traj + parallel ============
+schedule time: 1.8184664249420166
+approximate group traj time: 22.28636932373047
+============= Exact algorithm ==================
+schedule time: 2347.5263047218323
+approximate group traj time: 2372.204038143158 1591.0 765.6791944508693
+task dict: 2500
+worker dict: 780
+group size: 5 group_range: 0.4
+节点数为2500, 边数为3123437。
+
+----- greedy grouping -----
+group time: 9.183204174041748 0.40024781227111816 876
+====== grouping result =====
+============ approximate ============
+schedule time: 239.24182057380676
+approximate group time: 265.34267139434814 total: 1589.0 total cost: 702.39882868903
+============ approximate + pruning group ============
+schedule time: 12.43484377861023
+approximate group time: 38.05798006057739 total: 1589.0 total cost: 743.6795102140394
+============ approximate + pruning group + pruning traj ============
+schedule time: 10.892972230911255
+approximate group traj time: 33.2968533039093 1400.0 666.362175983666
+============ approximate + pruning group + pruning traj + parallel ============
+schedule time: 1.888624668121338
+approximate group traj time: 24.146172761917114
+============= Exact algorithm ==================
+schedule time: 2406.352412223816
+approximate group traj time: 2431.2140650749207 1591.0 765.6791944508693
+task dict: 2500
+worker dict: 780
+group size: 5 group_range: 0.4
+节点数为2500, 边数为3123437。
+
+----- greedy grouping -----
+group time: 8.67901062965393 0.40848708152770996 876
+====== grouping result =====
+============ approximate ============
+schedule time: 224.93312454223633
+approximate group time: 249.44389939308167 total: 1589.0 total cost: 702.39882868903
+============ approximate + pruning group ============
+schedule time: 11.935169696807861
+approximate group time: 36.043277740478516 total: 1589.0 total cost: 743.6795102140394
+============ approximate + pruning group + pruning traj ============
+schedule time: 10.175012826919556
+approximate group traj time: 30.91068124771118 1400.0 666.362175983666
+============ approximate + pruning group + pruning traj + parallel ============
+schedule time: 1.7769248485565186
+approximate group traj time: 22.636314153671265
+============= Exact algorithm ==================
+schedule time: 2313.291072845459
+approximate group traj time: 2336.939163208008 1591.0 765.6791944508693
+task dict: 2500
+worker dict: 780
+group size: 5 group_range: 0.4

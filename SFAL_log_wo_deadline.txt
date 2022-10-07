@@ -1,0 +1,93 @@
+task dict: 2500
+worker dict: 780
+group size: 5 group_range: 0.4
+节点数为2500，边数为3123437。
+
+----- greedy grouping -----
+group time: 8.400233030319214 0.3120899200439453 876
+====== grouping result =====
+============ approximate ============
+schedule time: 222.0951211452484
+approximate group time: 245.29198718070984 total: 1723.0 total cost: 668.7390778096983
+============ approximate + pruning group ============
+schedule time: 11.461800575256348
+approximate group time: 34.65496563911438 total: 1723.0 total cost: 711.2188723566078
+============ approximate + pruning group + pruning traj ============
+schedule time: 10.001707553863525
+approximate group traj time: 31.755970001220703 1718.0 658.9627705855498
+============ approximate + pruning group + pruning traj + parallel ============
+schedule time: 1.7404460906982422
+approximate group traj time: 23.18371558189392
+============= Exact algorithm ==================
+schedule time: 2277.5613515377045
+approximate group traj time: 2301.647100687027 1591.0 765.6791944508693
+task dict: 2500
+worker dict: 780
+group size: 5 group_range: 0.4
+节点数为2500，边数为3123437。
+
+----- greedy grouping -----
+group time: 8.785338401794434 0.2731459140777588 876
+====== grouping result =====
+============ approximate ============
+schedule time: 228.30724263191223
+approximate group time: 250.45749640464783 total: 1723.0 total cost: 668.7390778096983
+============ approximate + pruning group ============
+schedule time: 11.85573959350586
+approximate group time: 34.14711952209473 total: 1723.0 total cost: 711.2188723566078
+============ approximate + pruning group + pruning traj ============
+schedule time: 10.391401767730713
+approximate group traj time: 31.444674730300903 1718.0 658.9627705855498
+============ approximate + pruning group + pruning traj + parallel ============
+schedule time: 1.7807564735412598
+approximate group traj time: 22.369940996170044
+============= Exact algorithm ==================
+schedule time: 2324.5516889095306
+approximate group traj time: 2346.815989255905 1760.0 693.630856016368
+task dict: 2500
+worker dict: 780
+group size: 5 group_range: 0.4
+节点数为2500, 边数为3123437。
+
+----- greedy grouping -----
+group time: 11.462955474853516 0.5048732757568359 876
+====== grouping result =====
+============= Exact algorithm ==================
+schedule time: 2596.554636478424
+approximate group traj time: 2623.161516189575 1760.0 693.630856016368
+task dict: 2500
+worker dict: 780
+group size: 5 group_range: 0.4
+节点数为2500, 边数为3123437。
+
+----- greedy grouping -----
+group time: 10.094513177871704 0.3139150142669678 876
+====== grouping result =====
+============= Exact algorithm ==================
+schedule time: 2645.677442073822
+approximate group traj time: 2671.218041419983 1760.0 693.630856016368
+task dict: 2500
+worker dict: 780
+group size: 5 group_range: 0.4
+============ approximate ============
+schedule time: 281.6118710041046
+approximate group time: 310.3636827468872 total: 1589.0 total cost: 965.3283426228362
+============ approximate + pruning group ============
+schedule time: 14.635310173034668
+approximate group time: 42.9274742603302 total: 1589.0 total cost: 997.2211849582833
+============ approximate + pruning group + pruning traj ============
+schedule time: 12.695918321609497
+approximate group traj time: 38.425182819366455 1400.0 971.6321538386073
+============ approximate + pruning group + pruning traj + parallel ============
+schedule time: 2.332336902618408
+approximate group traj time: 27.753907918930054
+============= Exact algorithm ==================
+schedule time: 2970.955180644989
+approximate group traj time: 3000.178447008133 1760.0 1082.4280046496722
+1760.0 1082.4280046496722 780
+approximate group traj time: 3028.3685495853424
+total time: 3057.747757911682
+============ approximate + pruning group + pruning traj + parallel ============
+============ approximate + pruning group + pruning traj ============
+schedule time: 13.032775640487671
+approximate group traj time: 37.98092341423035 1718.0 1034.9471699401022
